@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-const  App = ()=>{
+const App = () => {
     return <p>Hello React with Create react app</p>
 }
 
